@@ -1,0 +1,17 @@
+{
+  "projectName": "Kiro The Referee",
+  "version": "1.0.0",
+  "description": "Comparison and trade-off analysis tool with Kiro accelerated development",
+  "challenge": "Kiro Week 6 Challenge - The Referee",
+  "aiFramework": "Kiro",
+  "toolPurpose": "Help users compare options and understand trade-offs",
+  "features": [
+    "Compare two or more options",
+    "Pros and cons analysis",
+    "Trade-off explanations",
+    "Cost vs benefit comparison",
+    "API/Cloud service comparison",
+    "Tech stack comparison",
+    "Kiro-accelerated development"
+  ]
+}
